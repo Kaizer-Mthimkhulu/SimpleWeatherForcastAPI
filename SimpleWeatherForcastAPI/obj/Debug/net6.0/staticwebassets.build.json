@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "punUOAln99Q2T5KzxK68BFUZ3RJN9BthycdZTt+hwfw=",
+  "Source": "SimpleWeatherForcastAPI",
+  "BasePath": "_content/SimpleWeatherForcastAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
